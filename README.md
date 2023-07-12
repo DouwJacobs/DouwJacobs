@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Data Scientist by day and learning React/nextjs by night
+Data Scientist | Learning React & Next.js | Python | Stats | ML | Building data-driven apps | Open to collaboration | Passionate about growth & innovation
 
 
 # 💻 Tech Stack:
